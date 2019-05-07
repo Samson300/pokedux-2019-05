@@ -6,7 +6,6 @@
 import { connect } from 'react-redux';
 import PokeList from '../components/PokeList';
 
-
 // We have two jobs:
 // - tell it how to map redux state to react props
 // - tell it how to map redux dispatch to react props
